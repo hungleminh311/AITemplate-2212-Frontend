@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!",
+        "title": "Dive into Our Fresh Seafood Extravaganza!"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Dive into Our Fresh Seafood Extravaganza!",
+  "subtitle": "Discover irresistibly fresh flavors from the ocean's bounty. Unbelievable deals that reel you in!"
+}
